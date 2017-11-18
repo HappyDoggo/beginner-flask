@@ -14,8 +14,8 @@ If not running in virtual environment, remove the variables after use.
 Remove-Item Env:\FLASK_APP
 Remove-Item Env:\FLASK_DEBUG
 ```
-Check variables using `Get-ChildItem Env:`.
+Check variables using `Get-ChildItem Env:`
 
 ## To do
-- [ ] get a virtual environment.
+- [x] get a virtual environment.
 - [ ] basic random generator prototype.
